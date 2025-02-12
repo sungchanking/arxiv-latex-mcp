@@ -7,3 +7,4 @@ jobs:
       - uses: actions/checkout@v4
       - run: echo ok
 # drop an unused branch
+# match the style used in the rest of the module
